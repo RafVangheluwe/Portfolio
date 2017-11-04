@@ -1,0 +1,212 @@
+.reveal h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 175%;
+  text-shadow: -2px 0 #000000, 0 2px #000000, 2px 0 #000000, 0 -2px #000000;
+  color: white;
+  text-transform: capitalize;
+}
+
+.reveal h2 {
+  font-size: 150%;
+  color: black;
+  font-family: 'Satisfy', cursive;
+  text-decoration: underline;
+  text-transform: capitalize;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reveal h3 {
+  font-size: 90%;
+  color: black;
+  font-family: 'Satisfy', cursive;
+  text-transform: lowercase;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chevron::before {
+  border-style: solid;
+  border-width: 0.25em 0.25em 0 0;
+  content: '';
+  display: inline-block;
+  height: 0.45em;
+  left: 0.15em;
+  position: relative;
+  top: 0.15em;
+  transform: rotate(-45deg);
+  vertical-align: top;
+  width: 0.45em;
+}
+
+.chevron.bottom:before {
+  top: 0;
+  transform: rotate(135deg);
+  clear: both;
+}
+.chevron.right:before {
+	left: 0;
+	transform: rotate(45deg);
+}
+.reveal #pijltje {
+  float: right;
+}
+.reveal #logo{
+  width: 10%;
+  border: 2px solid white;
+}
+.reveal .rond {
+  border-radius: 50%;
+}
+.reveal #bottom{
+  clear: both;
+  padding-top: 20px;
+  margin-top: 50px;
+}
+.reveal ul {
+  list-style-type: none;
+}
+.reveal #one {
+  width: 250px;
+  border: 5px solid white;
+}
+
+.reveal #two {
+  width: 400px;
+  border: 5px solid white;
+}
+
+.reveal #three {
+  width: 100%;
+  border: 5px solid white;
+}
+
+.reveal #four {
+  width: 100%;
+  border: 5px solid white;
+}
+
+.reveal #five {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #six {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #seven {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #eight {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #nine {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #ten {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #eleven {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #twelve {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #thirteen {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #fourteen {
+  width: 100%;
+  border: 5px solid white;
+}
+.reveal #fifteen {
+  width: 25%;
+  border: 5px solid white;
+}
+.reveal #sixteen {
+  width: 60%;
+  border: 5px solid white;
+}
+.reveal #seventeen {
+  width: 25%;
+  border: 5px solid white;
+}
+.reveal #eightteen {
+  width: 35%;
+  border: 5px solid white;
+}
+.reveal #nineteen {
+  width: 50%;
+  border: 5px solid white;
+}
+.reveal #twenty {
+  width: 50%;
+  border: 5px solid white;
+}
+.reveal #twentyone {
+  width: 50%;
+  border: 5px solid white;
+}
+.reveal #twentytwo {
+  width: 25%;
+  border: 5px solid white;
+}
+
+#een {
+  float: left;
+  width: 50%;
+}
+
+#twee {
+  float: right;
+  width: 50%;
+}
+
+#drie {
+  float: left;
+  width: 50%;
+}
+
+#vier {
+  float: right;
+  width: 50%;
+}
+#vijf {
+  float: left;
+  width: 33%;
+}
+#zes {
+  float: left;
+  width: 33%;
+}
+#zeven {
+  float: left;
+  width: 33%;
+}
+#acht {
+  float: left;
+  width: 50%;
+}
+#negen {
+  float: right;
+  width: 50%;
+}
+#tien {
+width:35%;
+margin-left: auto;
+margin-right: auto;
+}
+#elf {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
